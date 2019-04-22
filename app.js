@@ -143,3 +143,12 @@ sumaDosNumeros(2, 3) // 5
 sumaDosNumeros(5, 5) // 10
 sumaDosNumeros(10, 48) // 28
 sumaDosNumeros(1250, 1990) // 3240
+
+/**
+ * Luego de este primer acercamiento vamos a codefights
+ */
+
+ /**
+  * Plataforma para aprender a programar jugando
+  * https://codecombat.com/play
+  */
